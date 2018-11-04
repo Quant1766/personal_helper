@@ -283,7 +283,7 @@ class PersonProfileScraper(CrawlSpider):
 
         print("captcha_key,url",captcha_key,url)
 
-        API_KEY = '91989f19294e8c41ed75fde3636c9958'  # Your 2captcha API KEY
+        API_KEY = '<API_KEY>'  # Your 2captcha API KEY
 
        # url = 'https://hotline.ua/'  # example url
 
